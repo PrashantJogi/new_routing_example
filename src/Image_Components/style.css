@@ -1,0 +1,20 @@
+img{
+    width: 250;
+    height: 200;
+}
+/* a:link {
+    color: red;
+} */
+
+/* visited link */
+a:visited {
+    color: green;
+}
+
+/* selected link */
+a:active {
+    color: blue;
+}
+/* NavLink:active {
+    color: blue;
+} */
